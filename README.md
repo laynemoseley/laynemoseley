@@ -1,0 +1,14 @@
+### Hi, I'm Layne 👋
+
+I'm VP of Engineering at [Crumbl](https://crumblcookies.com), where I lead the team behind the apps, point-of-sale system, and platform for about 1,000 stores and $1.4B in annual sales. I joined in 2019 at 30 stores and wrote a lot of that code myself. I'm still the top committer.
+
+**What I work on**
+- Point of sale and payments on Apple hardware, in every Crumbl store
+- iOS and Android apps for ordering, delivery, and shipping
+- Serverless backends on AWS (Lambda, ECS, DynamoDB, Postgres) with TypeScript and GraphQL
+
+**Before Crumbl:** CTO at i.TV (Nintendo TVii, tvtag), iOS at Snap, Lead iOS for Instructure's Canvas apps, and the Day One journal app. I also taught computer science at BYU–Idaho. Apple WWDC Scholar, 2009.
+
+Most of my work lives in private repos. The public ones here are side projects and course materials from my teaching days.
+
+🌐 [laynemoseley.com](https://laynemoseley.com) · 💼 [LinkedIn](https://www.linkedin.com/in/laynemoseley/) · ✉️ hi@laynemoseley.com
