@@ -7,8 +7,8 @@ I'm VP of Engineering at [Crumbl](https://crumblcookies.com), where I lead the t
 - iOS and Android apps for ordering, delivery, and shipping
 - Serverless backends on AWS (Lambda, ECS, DynamoDB, Postgres) with TypeScript and GraphQL
 
-**Before Crumbl:** CTO at i.TV (Nintendo TVii, tvtag), iOS at Snap, Lead iOS for Instructure's Canvas apps, and the Day One journal app. I also taught computer science at BYU–Idaho. Apple WWDC Scholar, 2009.
+**Before Crumbl:** CTO at i.TV (Nintendo TVii, tvtag), iOS at Snap, Lead iOS for Instructure's Canvas apps, and the Day One journal app. Apple WWDC Scholar, 2009.
 
-Most of my work lives in private repos. The public ones here are side projects and course materials from my teaching days.
+Most of my work lives in private repos. The public ones here are side projects and older experiments.
 
 🌐 [laynemoseley.com](https://laynemoseley.com) · 💼 [LinkedIn](https://www.linkedin.com/in/laynemoseley/) · ✉️ hi@laynemoseley.com
