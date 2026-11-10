@@ -1,6 +1,6 @@
 ### Hi, I'm Layne 👋
 
-I'm VP of Engineering at [Crumbl](https://crumblcookies.com), where I lead the engineering team behind the apps, point-of-sale system, and platform for 1,000+ stores and $1.3B+ in annual sales. I joined in 2019 at 30 stores, wrote a lot of that code myself, and still do.
+I'm VP of Engineering at [Crumbl](https://crumblcookies.com), where I lead the engineering team behind the apps, point-of-sale system, and platform for 1,000+ stores and billions in sales. I joined in 2019 at 30 stores, wrote a lot of that code myself, and still do.
 
 **What I work on**
 - Point of sale and payments on Apple hardware, in every Crumbl store
