@@ -6,6 +6,7 @@ I'm VP of Engineering at [Crumbl](https://crumblcookies.com), where I lead the e
 - Point of sale and payments on Apple hardware, in every Crumbl store
 - iOS and Android apps for ordering, delivery, and shipping
 - Serverless backends on AWS (Lambda, ECS, DynamoDB, Postgres) with TypeScript and GraphQL
+- AI-driven engineering: AI coding tools across the team, AI features in the product, and internal agents
 
 **Before Crumbl:** CTO at i.TV (Nintendo TVii, tvtag), iOS at Snap, Lead iOS for Instructure's Canvas apps, and the Day One journal app. Apple WWDC Scholar, 2009.
 
